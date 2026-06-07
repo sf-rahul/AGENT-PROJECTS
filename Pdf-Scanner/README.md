@@ -2,6 +2,8 @@
 
 PDF Scanner is an AI-powered chat application that allows users to interact with a Large Language Model (LLM) for general conversations and PDF document analysis. Users can ask general questions, upload PDF documents, and request summaries or information extraction from the uploaded files.
 
+![alt text](image.png)
+
 ## Features
 
 * Interactive AI chat interface
